@@ -1,6 +1,6 @@
 # Rodrigo Schmitt de Almeida
 
-Estudante de Engenharia de Software (PUCRS) com foco em **sistemas embarcados e telemetria automotiva**, **engenharia backend & AppSec**, **análise em grafos** e **IA aplicada**.
+Estudante de Engenharia de Software (PUCRS) com foco em **telemetria automotiva**, **engenharia backend & AppSec**, **análise em grafos** e **IA aplicada**.
 
 ### Portfólio 3D Interativo — VW Gol G5
 
