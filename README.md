@@ -6,9 +6,13 @@ Estudante de Engenharia de Software (PUCRS) com foco em **telemetria automotiva*
 
 Conduza um **Volkswagen Gol G5 Preto** em Three.js e Blender 5.1 por estações interativas com demonstrações reais dos principais projetos:
 
-**[Acessar Portfólio 3D](https://rodrigoschmittdealmeida.github.io/)** · **[Repositório do Portfólio](https://github.com/RodrigoSchmittDeAlmeida/RodrigoSchmittDeAlmeida.github.io)**
+<p align="center">
+  <a href="https://rodrigoschmittdealmeida.github.io/"><img src="./assets/play-portfolio-btn.svg" alt="Jogar Portfólio 3D Interativo com VW Gol G5 Preto" height="68" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/RodrigoSchmittDeAlmeida/RodrigoSchmittDeAlmeida.github.io"><img src="./assets/repo-code-btn.svg" alt="Ver Código-Fonte do Portfólio 3D" height="68" /></a>
+</p>
 
-[![Preview 3D do VW Gol G5 Preto no portfólio](./gol-g5-preview.gif)](https://rodrigoschmittdealmeida.github.io/)
+<p align="center"><a href="https://rodrigoschmittdealmeida.github.io/"><img src="./gol-g5-preview.gif" alt="Preview 3D do VW Gol G5 Preto no portfólio" width="680" /></a></p>
 
 ---
 

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="68" viewBox="0 0 230 68" fill="none" role="img" aria-label="Código-Fonte — GitHub Pages + Repo">
+  <defs>
+    <linearGradient id="secBgGrad" x1="0" y1="0" x2="230" y2="68" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d131f" />
+      <stop offset="100%" stop-color="#141c2b" />
+    </linearGradient>
+    <linearGradient id="secTopSheen" x1="115" y1="0" x2="115" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.045" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="secTopRim" x1="14" y1="1.5" x2="216" y2="1.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.03" />
+      <stop offset="30%" stop-color="#ffffff" stop-opacity="0.16" />
+      <stop offset="70%" stop-color="#ffffff" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03" />
+    </linearGradient>
+    <clipPath id="secCardClip">
+      <rect x="1" y="1" width="228" height="66" rx="11" />
+    </clipPath>
+  </defs>
+
+  <!-- Base dark slate card -->
+  <g clip-path="url(#secCardClip)">
+    <rect x="1" y="1" width="228" height="66" rx="11" fill="url(#secBgGrad)" />
+    <rect x="1" y="1" width="228" height="33" fill="url(#secTopSheen)" />
+  </g>
+
+  <!-- Subtle double slate border & top highlight -->
+  <rect x="1" y="1" width="228" height="66" rx="11" stroke="#2b374b" stroke-width="1.2" />
+  <rect x="2.5" y="2.5" width="225" height="63" rx="9.5" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1" />
+  <line x1="14" y1="1.6" x2="216" y2="1.6" stroke="url(#secTopRim)" stroke-width="1" stroke-linecap="round" />
+
+  <!-- Circular </> code emblem -->
+  <circle cx="32" cy="34" r="16" fill="#162032" stroke="#394963" stroke-width="1.2" />
+  <!-- Left bracket < -->
+  <path d="M 26.2 30.2 L 22.4 34 L 26.2 37.8" stroke="#cbd5e1" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Slash / -->
+  <path d="M 33.4 28.8 L 30.6 39.2" stroke="#2ea86f" stroke-width="1.7" stroke-linecap="round" />
+  <!-- Right bracket > -->
+  <path d="M 37.8 30.2 L 41.6 34 L 37.8 37.8" stroke="#cbd5e1" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Title and subtitle -->
+  <text x="59" y="30" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.4">CÓDIGO-FONTE</text>
+  <text x="59" y="47.5" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.3" font-weight="500" letter-spacing="0.15">GitHub Pages + Repo</text>
+</svg>
