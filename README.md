@@ -20,7 +20,7 @@ Conduza um **Volkswagen Gol G5 Preto** em Three.js e Blender 5.1 por estações 
 
 | Projeto | Descrição | Stack Principal |
 |---|---|---|
-| [**leitorECU**](https://github.com/RodrigoSchmittDeAlmeida/leitorECU) | Scanner e datalogger automotivo 30 FPS com protocolo VAG KWP2000 / KW1281 (Bosch ME7.5.30 — VW Gol G5) e Ford HS-CAN UDS; 99/99 testes pytest. | Python, PyQt6, PyQtGraph, PySerial, Bleak BLE |
+| [**leitorECU**](https://github.com/RodrigoSchmittDeAlmeida/leitorECU) | Scanner e datalogger automotivo multiplataforma (Desktop 30 FPS + Mobile/Tablet Flutter) com osciloscópio triplo, Mapa 2D, Replay e exportação CSV/.msl sobre CAN UDS, KWP2000, KW1281 e OBD-II. | Python, PyQt6, PyQtGraph, Flutter, Bleak BLE |
 | [**V-Stable**](https://github.com/RodrigoSchmittDeAlmeida/v-stable-frontend) ([backend](https://github.com/RodrigoSchmittDeAlmeida/v-stable-backend)) | Plataforma B2B de câmbio e stablecoins com sanitizador de mídia em Rust (`zero-unsafe`), 2FA TOTP (RFC 6238), 37/37 testes de pentest STRIDE e chatbot Zero-PII com rate-limit de Nielsen. | Java 25, Spring Boot 4, React 19, PostgreSQL 16, Rust, AWS |
 | [**OrdoVitae**](https://github.com/Hacktona-AGES-2026/OrdoVitae) | Sistema de priorização cirúrgica no SUS (9ª Hackatona PUCRS / HSL) combinando regras clínicas SWALIS e DeepSeek-V3 com validação literal e 0% de alucinação. | Python, FastAPI, SQLite, DeepSeek-V3, React 19 |
 | **Vincula** *(AGES / PUCRS)* | Plataforma investigativa em grafo interativo para cruzamento de quebras de sigilo SIMBA, SITTEL, RIF e extratos bancários CNAB/CSV/XLSX. | Next.js 15, React 19, `@neo4j-nvl/react`, Material UI |
